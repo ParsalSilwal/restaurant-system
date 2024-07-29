@@ -1,0 +1,1 @@
+This project is a simple restaurant management system that allows administrators to manage items and view sales, while customers can browse items, make purchases, and view their bills. The system is built using HTML, CSS, JavaScript, PHP, and MySQL.
